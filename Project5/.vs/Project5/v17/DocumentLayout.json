@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitCode\\Code\\Project5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F8F944-478B-4F24-80E6-C5DE2F480875}|Project5\\Project5.vcxproj|D:\\GitCode\\Code\\Project5\\Project5\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3F8F944-478B-4F24-80E6-C5DE2F480875}|Project5\\Project5.vcxproj|solutionrelative:Project5\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "D:\\GitCode\\Code\\Project5\\Project5\\FileName.cpp",
+              "RelativeDocumentMoniker": "Project5\\FileName.cpp",
+              "ToolTip": "D:\\GitCode\\Code\\Project5\\Project5\\FileName.cpp",
+              "RelativeToolTip": "Project5\\FileName.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-04T06:03:17.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
